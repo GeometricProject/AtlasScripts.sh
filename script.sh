@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Put your device IPs here
-DEVICES=("192.168.10.101")
+DEVICES=("device1" "device2")
 
 # you need to go to this URL and download it.
 APK_MIRROR_URL="https://www.apkmirror.com/apk/niantic-inc/pokemon-go/pokemon-go-0-275-1-release/pokemon-go-0-275-1-android-apk-download/ (32 bit) or https://www.apkmirror.com/apk/niantic-inc/pokemon-go/pokemon-go-0-275-1-release/pokemon-go-0-275-1-2-android-apk-download/ (64 bit)"
