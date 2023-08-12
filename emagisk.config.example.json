@@ -1,0 +1,4 @@
+rdm_user=""
+rdm_password=""
+rdm_backendURL="<your rdm host>"
+discord_webhook=""

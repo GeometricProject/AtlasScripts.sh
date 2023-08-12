@@ -1,0 +1,8 @@
+{
+  "authBearer": "",
+  "deviceAuthToken": "< get this from atlas.pokemod.dev ",
+  "deviceName": " the device name ",
+  "email": " your atlas username ",
+  "rdmUrl": "your rdm server and port (backend not UI)",
+  "runOnBoot": true
+}
